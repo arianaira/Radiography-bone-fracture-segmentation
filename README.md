@@ -1,7 +1,14 @@
-# bone-fracture-segmentation
-Detecting fracture in bone using SAM ViT-b
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-ai-open.svg" width="150">
+</p>
 
-# Segmentation Report:
+<h1 align="center">🦴 Fracture Segmentation Report</h1>
+
+<p align="center">
+  <em>A deep learning approach to identifying bone fractures in medical imagery.</em>
+</p>
+
+---
 ## Dataset description:
 The dataset is structured in the COCO format, with image annotations stored as JSON. Each sample consists of:
 - An RGB image containing fractures.
